@@ -28,3 +28,4 @@ Carthage/
 #
 Pods/
 Podfile.lock
+contents.xcworkspacedata
