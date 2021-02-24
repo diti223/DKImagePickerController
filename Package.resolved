@@ -14,8 +14,8 @@
         "package": "DKPhotoGallery",
         "repositoryURL": "https://github.com/zrn-ns/DKPhotoGallery",
         "state": {
-          "branch": "feature/support_swiftpm",
-          "revision": "d7d51be75a4a5d47d435d3ebf4f61aed62906e1a",
+          "branch": "develop",
+          "revision": "ab08a21b7452040b5e5fbd9535d9d8daa0b87dd6",
           "version": null
         }
       },

@@ -23,6 +23,9 @@ let package = Package(
         .target(
             name: "DKImagePickerController",
             dependencies: ["DKCamera", "DKPhotoGallery", "TOCropViewController"],
-            path: "Sources"),
+            path: "Sources",
+            exclude: [
+                "DKImagePickerController/Info.plist"
+            ]),
     ]
 )
