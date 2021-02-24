@@ -3,20 +3,20 @@
     "pins": [
       {
         "package": "DKCamera",
-        "repositoryURL": "https://github.com/zhangao0086/DKCamera",
+        "repositoryURL": "https://github.com/diti223/DKCamera.git",
         "state": {
-          "branch": "develop",
+          "branch": null,
           "revision": "4674cecf2600461007ad801ddc799f85e25a430e",
-          "version": null
+          "version": "1.7.0"
         }
       },
       {
         "package": "DKPhotoGallery",
-        "repositoryURL": "https://github.com/zrn-ns/DKPhotoGallery",
+        "repositoryURL": "https://github.com/diti223/DKPhotoGallery.git",
         "state": {
-          "branch": "develop",
-          "revision": "ab08a21b7452040b5e5fbd9535d9d8daa0b87dd6",
-          "version": null
+          "branch": null,
+          "revision": "3b93b75bd59cd205ca8ba8a8e5dc4176070382ea",
+          "version": "1.0.0"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
         "state": {
           "branch": null,
-          "revision": "564d238f8814c4a82502336fd80b28a9d321ff47",
-          "version": "5.10.2"
+          "revision": "a6b6e44eadf0d39250c10a7cc0e3b91d0bdb0e94",
+          "version": "5.10.4"
         }
       },
       {
@@ -33,13 +33,13 @@
         "repositoryURL": "https://github.com/kirualex/SwiftyGif.git",
         "state": {
           "branch": null,
-          "revision": "420d12cba8338b03993f73a72c1f6b70d5273cf2",
-          "version": "5.3.0"
+          "revision": "0cd770feed5807d9fd4fa8df5ad74b56b814b0c8",
+          "version": "5.4.0"
         }
       },
       {
         "package": "TOCropViewController",
-        "repositoryURL": "https://github.com/TimOliver/TOCropViewController",
+        "repositoryURL": "https://github.com/TimOliver/TOCropViewController.git",
         "state": {
           "branch": null,
           "revision": "dad97167bf1be16aeecd109130900995dd01c515",
