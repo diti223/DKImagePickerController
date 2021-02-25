@@ -15,7 +15,7 @@ let package = Package(
             targets: ["DKImagePickerController"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/diti223/DKCamera.git", from: "1.7.0"),
+        .package(url: "https://github.com/diti223/DKCamera.git", from: "1.7.1"),
         .package(url: "https://github.com/diti223/DKPhotoGallery.git", from: "1.0.0"),
         .package(url: "https://github.com/TimOliver/TOCropViewController.git", from: "2.6.0"),
     ],
@@ -27,5 +27,8 @@ let package = Package(
             exclude: [
                 "DKImagePickerController/Info.plist"
             ]),
+        .testTarget(
+            name: "DKImagePickerControllerTests",
+            dependencies: ["DKImagePickerController"])
     ]
 )
